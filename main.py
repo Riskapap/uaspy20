@@ -1,4 +1,3 @@
-[09:32, 1/13/2020] Mas Veno❤: from core.search_helper import SearchHelper
 from core.baseapp import BaseApp
 from view.view_book import ViewBook
 from view.input_book import InputBook
